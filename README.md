@@ -1,0 +1,2 @@
+# Zalik
+Zaliczenie
